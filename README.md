@@ -3,11 +3,11 @@
 [![NPM version](https://img.shields.io/npm/v/luckyboy-ui.svg?style=flat)](https://npmjs.org/package/luckyboy-ui)
 [![NPM downloads](http://img.shields.io/npm/dm/luckyboy-ui.svg?style=flat)](https://npmjs.org/package/luckyboy-ui)
 
-A react library developed with dumi
+dumi2：哎呦不错哦
 
 ## Usage
 
-TODO
+基于 antd 二次封装的 UI 组件库
 
 ## Options
 
