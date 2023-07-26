@@ -38,8 +38,7 @@ jobs:
       
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
-        env:
-          GITHUB_PACKAGES_AUTH_TOKEN: ${{ secrets.GH_PKG_AUTH_TOKEN }}
         with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
           folder: docs-dist
