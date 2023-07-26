@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "A react library developed with dumi",
   "license": "MIT",
-  "module": "dist/index.js",
+  "main": "dist/cjs-dist/index.js",
+  "module": "dist/esm-dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
