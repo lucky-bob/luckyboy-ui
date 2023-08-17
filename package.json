@@ -2,9 +2,12 @@
   "name": "luckyboy-ui",
   "version": "0.0.1",
   "description": "A react library developed with dumi",
+  "repository": {
+    "url": "https://github.com/lucky-bob/luckyboy-ui.github.io"
+  },
   "license": "MIT",
-  "main": "dist/cjs-dist/index.js",
-  "module": "dist/esm-dist/index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
