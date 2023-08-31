@@ -6,8 +6,12 @@ title: '雪碧'
 
 This is an example components.
 
-```jsx
+```tsx
 import { Sprite } from 'luckyboy-ui';
 
-export default () => <Sprite title="Hello Sprite!" />;
+export default () => (
+  <>
+    <Sprite title="Hello Sprite!!" />
+  </>
+);
 ```

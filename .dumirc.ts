@@ -7,4 +7,13 @@ export default defineConfig({
   themeConfig: {
     name: 'luckyboy-ui',
   },
+  extraBabelPlugins: [
+    [
+      'babel-plugin-import',
+      {
+        libraryName: 'antd',
+        style: true,
+      },
+    ],
+  ],
 });
