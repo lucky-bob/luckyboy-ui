@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluckyboy_ui=self.webpackChunkluckyboy_ui||[]).push([[842],{77842:function(l,r,n){n.r(r),n.d(r,{Foo:function(){return i},Sprite:function(){return e}});var f=n(67294),u=n(85893),o=function(t){return(0,u.jsx)("h4",{children:t.title})},i=o,c=function(t){return(0,u.jsx)("h4",{children:t.title})},e=c}}]);
